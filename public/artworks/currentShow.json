@@ -1,0 +1,99 @@
+{
+  "date": {
+    "start": "2026-07-10"
+  },
+  "about": {
+    "heading": "A Space Virtual Archive",
+    "introParagraph": "A Space Virtual Archive is a permanent online collection that gathers artists selected from A Space's previous online group shows. Instead of disappearing when an exhibition closes, these works remain here to be revisited—an always-open space where past shows continue to live, wander, and be explored.",
+    "pressReleaseHeading": "About",
+    "pressParagraphs": [
+      "New York, NY — A Space Virtual Archive is a permanent, always-open extension of A Space Virtual Gallery. It brings together a selection of artists and works drawn from our previous online group shows, preserving them in a single navigable virtual space across painting, sculpture, video, print, drawing, zine, photography, and digital media.",
+      "Founded in 2024, A Space Gallery is an incubator for emerging artists and new ideas in contemporary art. This archive extends that mission beyond any single exhibition, keeping the works accessible long after each show has ended."
+    ],
+    "artistsLine": "Sibyl Guo · Mengwei Chen",
+    "socialLinks": [
+      {
+        "href": "https://www.instagram.com/aspace____/",
+        "label": "Follow us on Instagram"
+      },
+      {
+        "href": "https://www.instagram.com/_cg_x/",
+        "label": "Follow Sibyl Guo on Instagram"
+      },
+      {
+        "href": "https://www.instagram.com/touyeye_yeyetou/",
+        "label": "Follow Mengwei Chen on Instagram"
+      }
+    ]
+  },
+  "currentShow": [
+    {
+      "artist": "Sibyl Guo",
+      "title": "we are here",
+      "date": "2026",
+      "category": ["Video"],
+      "medium": "Digital painting on procreate",
+      "dimension": "1414 x 1080 cm",
+      "depth": "1.5 cm",
+      "description": "In a backroom corridor filled with repeating wooden frames, a red metal box appears. A seed grows into a branch, bears fruit, and becomes a Tyrannosaurus rex skull. The red box recurs in my \"Backrooms\" series, a quiet signal from somewhere else. The strange light spectrum shifts from orange through blue to pale yellow, turning dread into something softer. The skull is not an ending, but a memory of an ancient encounter, a first attempt to take shape in a world that was never home. If you too are a being from elsewhere, you would recognize this feeling. Homesickness. Surprise. The quiet desperation of trying to belong where you cannot be seen. we are here is not a warning, but a fragile hope to exist somewhere that was never meant for you.",
+      "link": "",
+      "room": 1,
+      "wall": 1,
+      "filePath": ["public/artworks/Level0.5/wearehere.mp4"],
+      "audio": "true",
+      "sceneScale": 0.12
+    },
+    {
+      "artist": "Mengwei Chen",
+      "title": "Visitant",
+      "date": "2025",
+      "category": ["Painting"],
+      "medium": "Faux leather, fabric, hologram fan",
+      "dimension": "214 x 110 cm",
+      "depth": "1.5 cm",
+      "description": "Visitant explores the gradual disappearance of home as a vessel of memory in the digital age. The work features a paper-cut figure with its body removed, leaving only a ghost-like outline and the trace of an absence. Beneath it, a house-shaped hologram flickers continuously, like a memory replaying itself without ever becoming fully accessible. As digital images increasingly occupy physical space, home shifts from a lived place into a form of virtual nostalgia—present, yet always out of reach. The work reflects on the unstable boundary between the physical and the virtual, presence and absence.",
+      "link": "",
+      "room": 1,
+      "wall": 2,
+      "filePath": ["public/artworks/Level0.5/Visitant.jpg"],
+      "audio": "false",
+      "sceneScale": 0.9
+    },
+    {
+      "artist": "Mengwei Chen",
+      "title": "Ghost in the Shell",
+      "date": "2025",
+      "category": ["Sculpture"],
+      "medium": "3D print and hologram fan",
+      "dimension": "74.6 x 100 cm",
+      "depth": "1.5 cm",
+      "description": "Ghost in the Shell depicts a girl living inside a giant snail shell. She appears to be telling a story, yet her voice can never be heard. The audience can only witness her silent presence through a holographic projection. The shell is both a refuge and a tomb. It offers protection while slowly isolating her from the outside world. The work reflects on the growing distance between the body, space, and digital imagery, and the loneliness of waiting for a response that never comes.",
+      "link": "",
+      "room": 1,
+      "wall": 2,
+      "filePath": [
+        "public/artworks/Level0.5/Ghostintheshell1.jpg"
+      ],
+      "audio": "false",
+      "sceneScale": 1.2
+    },
+    {
+      "artist": "Mengwei Chen",
+      "title": "Ghost in the Shell",
+      "date": "2025",
+      "category": ["Sculpture"],
+      "medium": "3D print and hologram fan",
+      "dimension": "74.6 x 100 cm",
+      "depth": "1.5 cm",
+      "description": "Ghost in the Shell depicts a girl living inside a giant snail shell. She appears to be telling a story, yet her voice can never be heard. The audience can only witness her silent presence through a holographic projection. The shell is both a refuge and a tomb. It offers protection while slowly isolating her from the outside world. The work reflects on the growing distance between the body, space, and digital imagery, and the loneliness of waiting for a response that never comes.",
+      "link": "",
+      "room": 1,
+      "wall": 2,
+      "filePath": [
+        "public/artworks/Level0.5/Ghostintheshell2.jpg"
+      ],
+      "audio": "false",
+      "sceneScale": 1.2
+    }
+  ]
+}
