@@ -78,7 +78,7 @@ function Menu({ onPlay, onAbout, ready = true }) {
           </div>
           <div className="title-info">
             <p>
-            A Space Virtual Archive is a permanent online collection bringing together artists selected from A Space's previous online group shows. Founded in 2024, A Space Gallery is an incubator for emerging artists and new ideas in contemporary art, and this archive keeps their works open and explorable long after each show has ended.
+            A Space Virtual Archive is a permanent online collection bringing together artists selected from A Space's previous online group shows. Founded in 2024, A Space Gallery is an incubator for emerging artists and new ideas in contemporary art, and this archive keeps their works open and explorable long after each virtual show has ended.
             </p>
             <p>
             Every refresh brings you into a slightly different space — rooms rearrange, furniture drifts, and quiet anomalies surface in the corners. No two visits are ever the same.

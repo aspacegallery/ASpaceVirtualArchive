@@ -20,6 +20,16 @@ function AboutOverlay({ onClose }) {
       ) : (
         <>
           <h1>{about.heading}</h1>
+          <p>
+            <a
+              href="https://aspacevirtualgallery.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: '#f70000', textDecoration: 'underline' }}
+            >
+              Visit A Space Virtual Gallery to see our current show.
+            </a>
+          </p>
           <p>{about.introParagraph}</p>
           <p>
             <strong>{about.pressReleaseHeading}</strong>
